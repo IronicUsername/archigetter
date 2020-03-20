@@ -1,0 +1,21 @@
+# Python 3
+__pycache__/
+.cache/
+
+
+# Virtual environments
+venv/
+.venv/
+
+# Python Packaging
+*.egg-info/
+pip-wheel-metadata/w
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Environment
+.venv/
